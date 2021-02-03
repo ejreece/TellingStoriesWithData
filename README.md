@@ -3,4 +3,4 @@ Data visualizations and exercises from the spring 2021 course titled "Telling St
 
 [Link to published website](https://ejreece.github.io/TellingStoriesWithData/)
 
-![California Redwoods](redwoods.jpg)
+![California Redwoods](Redwoods.jpg)
